@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Firefly Downloader",
+    "version": "1.0.0",
+    "description": "Download Adobe Firefly Image Without Watermark",
+    "permissions": [
+        "storage",
+        "activeTab",
+        "scripting"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "icons": {
+        "128": "assets/logo.png"
+    },
+    "action": {
+        "default_icon": "assets/logo.png"
+    }
+}
