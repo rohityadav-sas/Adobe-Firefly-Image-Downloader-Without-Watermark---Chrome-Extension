@@ -55,7 +55,7 @@
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License].
 
 ## Disclaimer
 This extension is developed independently and is not affiliated with Adobe Firefly. Use it responsibly and at your own risk.
