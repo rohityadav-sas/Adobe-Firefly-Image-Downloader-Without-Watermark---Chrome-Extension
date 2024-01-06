@@ -4,7 +4,6 @@
     "version": "1.0.0",
     "description": "Download Adobe Firefly Image Without Watermark",
     "permissions": [
-        "storage",
         "activeTab",
         "scripting"
     ],
