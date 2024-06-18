@@ -11,6 +11,9 @@
 - [License](#license)
 - [Disclaimer](#disclaimer)
 
+## Preview
+![preview.gif](./assets/preview.gif)
+
 ## Overview
 
 **Firefly Downloader** is a Chrome extension designed to enhance the Adobe Firefly user experience by allowing users to download images generated on the platform without the watermark. It works seamlessly across various Firefly generative AI pages, providing a quick and efficient way to save high-quality images directly to your device.
