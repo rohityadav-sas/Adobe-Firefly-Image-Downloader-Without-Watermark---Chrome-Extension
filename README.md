@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Preview](#preview)
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
