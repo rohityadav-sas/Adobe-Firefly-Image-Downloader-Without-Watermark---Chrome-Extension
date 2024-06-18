@@ -11,8 +11,8 @@
 - [License](#license)
 - [Disclaimer](#disclaimer)
 
-## Preview
-  ![Tutorial.gif](https://github.com/rohityadav-sas/Pulchowk-Wifi-Login-Automation-Lite/blob/master/assets/tutorial.gif?raw=true)
+2. Replace the username and password with your credentials in the ContentScript.js.
+   ![Tutorial.gif](https://github.com/rohityadav-sas/Pulchowk-Wifi-Login-Automation-Lite/blob/master/assets/tutorial.gif?raw=true)
 
 ## Overview
 
