@@ -12,7 +12,7 @@
 - [Disclaimer](#disclaimer)
 
 ## Preview
-![tutorial.gif](https://github.com/rohityadav-sas/Pulchowk-Wifi-Login-Automation-Lite/blob/master/assets/tutorial.gif?raw=true)
+ ![Tutorial.gif](https://github.com/rohityadav-sas/Pulchowk-Wifi-Login-Automation-Lite/blob/master/assets/tutorial.gif?raw=true)
 
 ## Overview
 
