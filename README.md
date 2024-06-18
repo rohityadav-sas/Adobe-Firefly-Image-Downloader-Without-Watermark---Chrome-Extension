@@ -12,7 +12,7 @@
 - [Disclaimer](#disclaimer)
 
 ## Preview
-![preview.gif](https://github.com/rohityadav-sas/Adobe-Firefly-Image-Downloader-Without-Watermark---Chrome-Extension/blob/master/assets/preview.gif)
+![preview.gif](https://github.com/rohityadav-sas/Adobe-Firefly-Image-Downloader-Without-Watermark---Chrome-Extension/blob/master/assets/preview.gif?raw=true)
 
 ## Overview
 
