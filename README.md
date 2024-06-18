@@ -12,7 +12,7 @@
 - [Disclaimer](#disclaimer)
 
 ## Preview
-![preview.gif](./assets/preview.png)
+![preview.gif](./assets/preview.gif)
 
 ## Overview
 
